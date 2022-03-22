@@ -14,7 +14,7 @@ import turtle
 import random
 from PIL import Image
 from datetime import datetime    
-from fractions import gcd
+from math import gcd
 
 # A class that draws a spirograph
 class Spiro:
